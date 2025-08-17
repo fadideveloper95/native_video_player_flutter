@@ -11,4 +11,6 @@ Key Features:
 
 . current view video, next and previous will be initialized while others will be disposes to safe memory.
  
-https://youtube.com/shorts/u5bv5nFmsKQ?feature=share
+
+
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://youtube.com/shorts/u5bv5nFmsKQ?feature=share)
