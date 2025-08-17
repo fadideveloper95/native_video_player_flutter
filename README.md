@@ -13,4 +13,4 @@ Key Features:
  
 
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://youtube.com/shorts/u5bv5nFmsKQ?feature=share)
+[![Watch the video]](https://youtube.com/shorts/u5bv5nFmsKQ?feature=share)
