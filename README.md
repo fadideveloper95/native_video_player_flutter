@@ -13,4 +13,4 @@ Key Features:
  
 
 
-[![Watch the video]](https://youtube.com/shorts/u5bv5nFmsKQ?feature=share)
+[Watch a demo](https://youtube.com/shorts/u5bv5nFmsKQ?feature=share)
